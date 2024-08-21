@@ -1,8 +1,9 @@
 This is a Chrome extension for investors in the Korean stock market.
 
 How to use:
-1. double-click the stock name with your mouse
-2. it will fetch the stock information from investing.com and show it to you
+1. first install the extension.
+2. Double-click the stock name with your mouse.
+3. it will fetch the stock information from investing.com and show it to you
 
 ![SS1](https://github.com/user-attachments/assets/0b426254-0560-4f31-8ce7-479d996635b5)
 
